@@ -1,0 +1,501 @@
+product_id,category,price,rating,reviews,material,brand,color,season,discount_pct,stock,units_sold,is_top_seller,launch_date
+P0001,Kurti,1076.6,4.36,3530,Denim,BrandB,White,All Season,54,27,1987,1,2024-06-11
+P0002,Sweater,742.58,4.22,1286,Cotton,BrandA,Blue,Winter,2,196,829,0,2023-04-24
+P0003,Jacket,1276.74,3.82,3179,Silk,BrandE,Red,Winter,13,190,1791,0,2025-10-24
+P0004,Kurti,1928.2,4.58,3654,Wool,BrandD,Yellow,Winter,37,50,2053,1,2023-08-22
+P0005,Dress,1607.05,3.46,2359,Linen,BrandB,Red,Winter,49,148,1383,0,2025-03-16
+P0006,Top,877.13,4.31,444,Cotton,BrandC,Red,Summer,56,267,471,0,2022-11-25
+P0007,Jacket,1586.59,4.3,35,Cotton,BrandC,Green,Summer,0,49,264,0,2025-11-21
+P0008,Jacket,1692.66,3.85,1475,Wool,BrandD,Red,Monsoon,37,245,921,0,2024-09-24
+P0009,Kurti,1058.07,4.16,3957,Silk,BrandB,Grey,All Season,37,112,2231,1,2025-11-12
+P0010,Jeans,1576.86,3.37,1798,Silk,BrandA,Yellow,All Season,20,169,1077,0,2024-05-29
+P0011,Dress,1529.1,4.46,1845,Denim,BrandA,Yellow,Winter,47,165,1181,0,2025-07-18
+P0012,Kurti,928.51,3.91,1408,Wool,BrandE,Black,Summer,28,13,894,0,2023-10-21
+P0013,Dress,1678.89,3.74,1708,Wool,BrandE,Red,Winter,4,202,1038,0,2024-04-29
+P0014,Dress,1780.39,4.52,2938,Silk,BrandA,Green,Monsoon,48,287,1703,0,2024-01-08
+P0015,Top,2041.53,3.65,1300,Denim,BrandC,Red,All Season,9,188,837,0,2024-06-12
+P0016,Jacket,2026.9,3.3,1243,Cotton,BrandC,Blue,All Season,27,154,814,0,2024-03-30
+P0017,Sweater,811.17,3.22,3976,Polyester,BrandE,Blue,Winter,20,54,2150,1,2025-07-08
+P0018,Top,1031.09,4.3,3097,Linen,BrandD,Green,Monsoon,49,181,1791,0,2023-11-22
+P0019,Top,1757.52,3.36,4616,Cotton,BrandA,Black,All Season,6,209,2493,1,2024-11-01
+P0020,Dress,1756.89,4.88,9,Silk,BrandE,Black,Monsoon,2,74,247,0,2023-04-24
+P0021,Hoodie,1757.52,2.96,2425,Linen,BrandE,Yellow,Monsoon,44,276,1376,0,2025-04-27
+P0022,Jacket,342.637,4.85,1660,Polyester,BrandA,Yellow,Winter,46,132,1064,0,2024-03-23
+P0023,Jeans,1785.45,4.11,2631,Polyester,BrandA,White,Summer,19,58,1570,0,2023-07-18
+P0024,Top,2067.78,3.95,4815,Denim,BrandC,Green,Winter,18,181,2554,1,2023-02-16
+P0025,Sweater,1977.0,3.73,1072,Linen,BrandD,Red,Summer,34,63,738,0,2024-12-30
+P0026,Hoodie,1825.7,4.2,3225,Denim,BrandD,Pink,Monsoon,3,259,1789,0,2023-08-18
+P0027,Hoodie,1342.37,3.98,4954,Cotton,BrandA,Green,Summer,4,192,2675,1,2024-02-29
+P0028,Jeans,1879.48,4.55,1316,Wool,BrandB,White,Monsoon,0,142,886,0,2024-07-01
+P0029,Top,1113.59,4.06,4145,Wool,BrandE,Yellow,All Season,3,103,2310,1,2023-09-04
+P0030,Sweater,1381.59,4.08,3683,Wool,BrandE,Green,All Season,11,213,2035,1,2023-03-06
+P0031,Jacket,1257.32,3.82,3273,Linen,BrandA,Green,All Season,59,241,1857,0,2023-05-26
+P0032,T-Shirt,1540.94,3.97,145,Wool,BrandB,Yellow,Winter,26,208,250,0,2025-02-09
+P0033,Sweater,2657.33,4.15,3040,Cotton,BrandC,Grey,Winter,55,92,1756,0,2023-12-30
+P0034,Jeans,566.37,3.14,1462,Denim,BrandA,White,Monsoon,41,141,887,0,2023-10-08
+P0035,Hoodie,1843.13,3.33,4676,Linen,BrandA,Yellow,All Season,22,111,2508,1,2024-04-29
+P0036,Jacket,693.64,4.37,1584,Denim,BrandE,Black,Winter,24,58,1010,0,2025-02-20
+P0037,Sweater,1264.03,4.09,482,Linen,BrandA,Red,All Season,20,42,475,0,2024-08-16
+P0038,T-Shirt,2044.48,3.91,3179,Denim,BrandA,Yellow,Winter,57,206,1809,0,2025-03-02
+P0039,T-Shirt,1532.14,4.01,1249,Polyester,BrandA,White,Summer,51,267,837,0,2022-12-09
+P0040,Dress,961.13,4.17,4768,Denim,BrandE,Blue,Summer,23,295,2574,1,2024-07-30
+P0041,Dress,1142.35,3.73,630,Wool,BrandC,Black,All Season,24,117,491,0,2024-10-15
+P0042,Kurti,1839.8,3.61,661,Polyester,BrandC,Blue,Monsoon,44,19,493,0,2024-11-04
+P0043,Jeans,1134.82,4.1,3503,Denim,BrandA,Pink,Winter,54,221,1915,0,2023-06-02
+P0044,Top,1608.23,3.51,2852,Linen,BrandE,Yellow,Winter,45,165,1629,0,2025-05-20
+P0045,Sweater,1522.79,4.2,2466,Linen,BrandC,Black,Summer,31,130,1439,0,2023-04-03
+P0046,Sweater,1174.2,3.15,987,Linen,BrandC,Red,Summer,54,155,648,0,2022-12-16
+P0047,Top,2571.97,4.51,1546,Silk,BrandC,Yellow,Monsoon,31,183,1030,0,2024-05-21
+P0048,Kurti,1816.96,4.24,649,Cotton,BrandE,Red,Monsoon,4,89,529,0,2025-06-23
+P0049,Hoodie,487.43,4.13,968,Linen,BrandE,Grey,Monsoon,35,93,683,0,2024-05-06
+P0050,Hoodie,1593.23,4.49,2637,Polyester,BrandA,Green,All Season,45,12,1541,0,2023-04-25
+P0051,Kurti,1169.11,4.83,1100,Linen,BrandD,Blue,Summer,41,292,773,0,2024-07-08
+P0052,Hoodie,1926.22,4.51,440,Silk,BrandC,Black,All Season,48,229,454,0,2023-08-24
+P0053,Dress,1103.74,3.08,769,Wool,BrandD,Red,Summer,41,291,535,0,2024-03-26
+P0054,Sweater,1442.63,3.36,1343,Polyester,BrandE,White,Summer,57,25,832,0,2023-09-30
+P0055,Kurti,1752.49,3.69,4358,Silk,BrandE,Red,Winter,38,74,2354,1,2025-09-28
+P0056,Sweater,1932.88,4.01,3729,Wool,BrandE,White,Summer,15,298,2065,1,2025-01-12
+P0057,Top,899.85,4.26,3906,Polyester,BrandD,Yellow,Summer,32,149,2173,1,2023-02-13
+P0058,T-Shirt,1332.75,3.64,1577,Denim,BrandE,Black,All Season,48,147,963,0,2024-07-07
+P0059,Dress,1262.53,4.09,4008,Cotton,BrandA,Red,Summer,20,7,2205,1,2023-09-03
+P0060,Jacket,1173.34,3.62,3351,Cotton,BrandE,Pink,All Season,8,28,1859,0,2025-05-29
+P0061,Dress,2382.73,3.69,4795,Silk,BrandB,Red,Monsoon,5,295,2580,1,2024-12-02
+P0062,Kurti,1702.49,3.3,2349,Wool,BrandD,Grey,Summer,50,208,1343,0,2024-08-23
+P0063,Jacket,869.56,3.54,3602,Cotton,BrandB,Pink,Summer,44,127,1970,1,2023-09-18
+P0064,T-Shirt,1958.93,3.32,1241,Wool,BrandE,Black,All Season,34,115,809,0,2023-06-20
+P0065,Kurti,2561.08,3.51,1125,Wool,BrandA,Grey,Monsoon,38,143,741,0,2024-06-20
+P0066,Jeans,2016.23,4.53,2601,Silk,BrandC,Red,Winter,21,234,1519,0,2023-02-25
+P0067,Sweater,740.32,3.53,1190,Silk,BrandE,White,Monsoon,40,6,785,0,2023-06-17
+P0068,T-Shirt,1257.88,5.0,4131,Silk,BrandA,Red,All Season,53,44,2317,1,2023-02-02
+P0069,Sweater,2133.46,4.25,4839,Cotton,BrandD,Blue,Monsoon,4,238,2599,1,2023-09-18
+P0070,Hoodie,1146.17,4.09,4448,Silk,BrandB,Yellow,All Season,41,154,2439,1,2023-04-01
+P0071,Jeans,1721.91,3.57,72,Cotton,BrandB,Green,All Season,22,180,197,0,2023-03-20
+P0072,Jeans,1887.32,4.35,1914,Silk,BrandB,White,Winter,16,214,1195,0,2023-09-21
+P0073,T-Shirt,1036.53,3.71,2472,Linen,BrandD,Blue,Summer,11,87,1421,0,2024-12-19
+P0074,Jeans,1470.24,4.06,3046,Wool,BrandA,Pink,All Season,22,255,1745,0,2024-04-23
+P0075,Jacket,-120.63,5.0,707,Silk,BrandD,Yellow,All Season,15,72,549,0,2022-12-21
+P0076,Jeans,987.81,3.95,1804,Polyester,BrandB,Black,Winter,2,178,1105,0,2024-02-17
+P0077,Sweater,1373.72,4.57,3713,Wool,BrandE,White,All Season,29,211,2112,1,2025-05-31
+P0078,Sweater,876.11,3.65,2564,Wool,BrandC,Green,Summer,56,292,1464,0,2024-02-03
+P0079,Kurti,2316.21,3.98,2475,Silk,BrandD,Yellow,Winter,21,233,1426,0,2025-10-29
+P0080,Sweater,784.93,4.89,3610,Denim,BrandD,Pink,Summer,8,238,2068,1,2024-10-02
+P0081,Kurti,1279.98,3.69,4255,Silk,BrandA,Grey,Summer,28,222,2328,1,2025-04-01
+P0082,Sweater,1565.37,4.91,2823,Wool,BrandA,Grey,Winter,46,118,1649,0,2024-05-01
+P0083,Jacket,2220.64,4.35,1735,Polyester,BrandD,Green,All Season,36,263,1047,0,2025-02-01
+P0084,Top,782.07,3.72,1585,Wool,BrandB,Black,Summer,22,206,972,0,2024-01-01
+P0085,Kurti,2081.58,4.32,66,Polyester,BrandC,Black,Summer,12,94,264,0,2025-07-30
+P0086,Dress,1505.12,4.49,3061,Cotton,BrandA,Pink,Summer,31,221,1742,0,2024-05-07
+P0087,Hoodie,1009.25,4.31,2428,Linen,BrandB,White,Summer,45,275,1434,0,2022-12-03
+P0088,T-Shirt,1731.05,3.21,4153,Wool,BrandE,Pink,Winter,51,230,2226,1,2023-07-07
+P0089,Sweater,1599.53,3.64,341,Silk,BrandA,Red,Winter,46,118,316,0,2023-08-28
+P0090,Jeans,1199.89,3.88,2774,Cotton,BrandB,Black,Monsoon,47,267,1571,0,2024-06-18
+P0091,Top,1534.9,3.96,2817,Linen,BrandB,Yellow,Monsoon,22,272,1623,0,2025-03-07
+P0092,Sweater,1307.34,4.31,2661,Silk,BrandC,Red,Summer,44,63,1502,0,2025-09-22
+P0093,Jeans,1556.76,4.09,1232,Denim,BrandC,Grey,All Season,16,297,828,0,2025-10-13
+P0094,Hoodie,1831.07,3.33,3874,Silk,BrandE,Grey,Summer,54,10,2082,1,2024-11-11
+P0095,Hoodie,2293.01,4.19,2401,Polyester,BrandB,Blue,All Season,39,97,1424,0,2024-09-04
+P0096,Hoodie,881.09,4.31,1494,Polyester,BrandB,Green,Summer,20,70,982,0,2025-05-23
+P0097,Jeans,2566.52,4.28,4211,Denim,BrandC,Red,Monsoon,1,57,2318,1,2024-04-27
+P0098,Sweater,523.96,4.54,661,Cotton,BrandA,Green,Monsoon,36,289,563,0,2025-08-30
+P0099,Hoodie,1424.11,4.42,3883,Linen,BrandA,Pink,All Season,5,250,2149,1,2025-03-07
+P0100,Jacket,1794.16,4.23,3619,Silk,BrandD,Red,Summer,43,275,1996,1,2023-10-16
+P0101,Kurti,1640.5,3.96,1868,Polyester,BrandC,Pink,All Season,17,49,1169,0,2024-10-23
+P0102,Jeans,118.86500000000001,3.17,2334,Cotton,BrandD,Blue,Monsoon,29,215,1312,0,2024-01-22
+P0103,Jeans,1395.94,4.21,3374,Denim,BrandC,Black,Summer,21,51,1932,0,2025-06-20
+P0104,Sweater,1253.5,4.1,1016,Wool,BrandE,Grey,Summer,53,270,699,0,2024-08-07
+P0105,Jeans,1205.32,4.14,4406,Polyester,BrandB,Blue,All Season,32,83,2424,1,2025-07-23
+P0106,Jeans,1924.8,3.36,207,Denim,BrandE,Grey,Winter,29,292,251,0,2025-08-20
+P0107,Hoodie,1678.51,3.46,2665,Silk,BrandC,Black,All Season,16,125,1518,0,2025-01-17
+P0108,Sweater,1153.55,4.53,2493,Linen,BrandB,Pink,Monsoon,42,295,1470,0,2023-12-30
+P0109,Hoodie,1949.8,3.98,632,Polyester,BrandA,Black,Monsoon,31,71,511,0,2022-12-01
+P0110,Kurti,1653.65,4.34,2102,Polyester,BrandA,Grey,Monsoon,41,295,1283,0,2024-11-06
+P0111,Top,1906.43,4.01,2959,Silk,BrandD,Grey,Monsoon,50,235,1673,0,2024-03-07
+P0112,Kurti,1814.81,4.01,3083,Wool,BrandC,Green,Monsoon,13,55,1716,0,2023-04-01
+P0113,Top,1085.5,4.47,4752,Cotton,BrandC,Yellow,Winter,57,109,2619,1,2024-07-23
+P0114,Hoodie,1219.91,3.74,1931,Linen,BrandA,Blue,Summer,9,191,1133,0,2024-04-02
+P0115,Kurti,1873.65,4.05,3719,Polyester,BrandE,Red,All Season,46,92,2074,1,2024-10-01
+P0116,Sweater,1805.19,3.77,2562,Linen,BrandB,Grey,All Season,59,55,1491,0,2024-01-01
+P0117,T-Shirt,1489.55,3.78,1679,Polyester,BrandE,Blue,Monsoon,50,59,1024,0,2024-11-18
+P0118,Hoodie,1558.66,3.85,236,Linen,BrandE,Green,All Season,35,137,337,0,2023-10-11
+P0119,Top,2138.83,4.11,4443,Denim,BrandA,Black,Monsoon,33,38,2438,1,2023-02-13
+P0120,Jacket,1204.21,3.76,4725,Polyester,BrandA,Green,Winter,8,27,2540,1,2024-09-07
+P0121,Top,1773.55,4.63,1540,Linen,BrandA,White,Winter,41,48,1032,0,2025-08-21
+P0122,Jacket,1398.9,3.55,3943,Cotton,BrandD,White,Summer,27,124,2129,1,2025-06-24
+P0123,Jeans,1391.16,3.91,363,Denim,BrandE,Red,Winter,10,12,373,0,2024-05-17
+P0124,Kurti,2049.39,3.78,2368,Denim,BrandC,Green,Winter,13,35,1371,0,2024-01-28
+P0125,Jacket,1912.71,4.72,285,Cotton,BrandB,Pink,Summer,38,100,393,0,2023-06-11
+P0126,Top,1906.75,4.1,148,Linen,BrandD,Red,All Season,54,281,303,0,2025-03-26
+P0127,Jeans,2152.74,4.52,4037,Silk,BrandC,Pink,Monsoon,46,85,2267,1,2023-09-18
+P0128,T-Shirt,1510.5,3.26,4551,Cotton,BrandE,Red,Monsoon,53,3,2446,1,2024-11-18
+P0129,Sweater,1840.98,4.13,1766,Linen,BrandA,White,All Season,18,222,1086,0,2024-11-29
+P0130,Sweater,1344.87,4.44,4895,Cotton,BrandE,Red,Summer,53,165,2636,1,2023-10-21
+P0131,Sweater,1662.08,4.04,1012,Cotton,BrandB,White,All Season,14,277,684,0,2023-10-09
+P0132,Jacket,1434.93,4.53,2831,Polyester,BrandD,Grey,Winter,27,129,1680,0,2023-04-16
+P0133,T-Shirt,1548.5,3.74,2507,Linen,BrandD,Black,Summer,23,30,1407,0,2023-11-07
+P0134,Jacket,1797.58,4.7,1523,Silk,BrandB,Pink,Summer,7,10,983,0,2023-01-04
+P0135,Kurti,1090.89,5.0,2785,Polyester,BrandC,Green,Summer,42,95,1669,0,2024-10-11
+P0136,Jacket,2546.19,3.82,2556,Cotton,BrandC,Grey,Monsoon,8,189,1475,0,2024-03-12
+P0137,T-Shirt,996.99,3.78,3725,Wool,BrandD,Grey,All Season,46,191,2075,1,2025-11-13
+P0138,T-Shirt,892.91,4.73,4576,Cotton,BrandD,Red,Summer,32,265,2540,1,2024-05-06
+P0139,Kurti,6237.18,4.79,1601,Cotton,BrandA,White,Summer,90,127,1071,0,2023-01-13
+P0140,T-Shirt,1895.83,3.74,2408,Linen,BrandC,Blue,Summer,18,237,1399,0,2023-02-02
+P0141,Top,1812.06,3.79,340,Linen,BrandB,Pink,All Season,2,111,375,0,2024-11-16
+P0142,T-Shirt,9070.85,3.86,2817,Polyester,BrandC,Grey,Monsoon,9,144,1589,0,2024-03-16
+P0143,Sweater,1493.88,3.33,2496,Silk,BrandA,Red,Winter,39,64,1429,0,2024-06-27
+P0144,Top,1051.37,3.54,4930,Polyester,BrandD,Yellow,Monsoon,46,246,2638,1,2025-01-16
+P0145,Top,1537.9,3.5,1725,Denim,BrandD,Black,Summer,41,222,1031,0,2025-09-25
+P0146,Kurti,1161.42,3.62,1689,Cotton,BrandA,Black,Monsoon,0,105,1047,0,2022-12-20
+P0147,Dress,1987.56,3.98,3267,Wool,BrandB,Blue,Monsoon,28,180,1853,0,2025-01-19
+P0148,Dress,1426.47,4.12,4406,Cotton,BrandD,White,Winter,49,183,2446,1,2025-10-02
+P0149,T-Shirt,1087.25,4.78,261,Cotton,BrandE,Red,All Season,33,225,406,0,2025-02-09
+P0150,Top,1339.31,3.5,1442,Polyester,BrandD,Pink,All Season,50,264,918,0,2023-07-07
+P0151,Dress,1706.47,4.49,405,Wool,BrandE,White,Monsoon,12,277,395,0,2025-10-05
+P0152,Dress,1218.14,3.89,2190,Wool,BrandA,Black,Monsoon,53,88,1330,0,2023-10-01
+P0153,T-Shirt,1088.89,3.98,4437,Wool,BrandA,White,All Season,0,175,2440,1,2025-06-26
+P0154,Dress,1621.84,4.34,243,Polyester,BrandD,Black,All Season,33,17,326,0,2023-03-10
+P0155,Jacket,1622.48,3.44,4585,Cotton,BrandC,White,Winter,28,105,2482,1,2023-01-11
+P0156,Jeans,1246.53,4.19,4107,Polyester,BrandE,Blue,Summer,47,270,2246,1,2024-02-02
+P0157,Kurti,1264.48,4.08,560,Linen,BrandB,Green,Monsoon,46,166,500,0,2023-07-24
+P0158,Jeans,1616.02,4.25,4137,Linen,BrandD,Blue,All Season,12,12,2257,1,2024-03-17
+P0159,T-Shirt,775.96,4.14,2725,Polyester,BrandB,Blue,Monsoon,47,31,1559,0,2023-06-30
+P0160,Sweater,796.27,5.0,593,Wool,BrandD,Green,Monsoon,48,39,566,0,2025-07-12
+P0161,Kurti,1140.78,3.68,1826,Cotton,BrandC,Green,All Season,52,147,1122,0,2025-09-25
+P0162,T-Shirt,1393.28,3.73,3229,Polyester,BrandC,Grey,Winter,28,217,1811,0,2024-02-07
+P0163,Top,165.54500000000002,3.69,3287,Polyester,BrandC,Grey,Monsoon,38,218,1825,0,2025-06-20
+P0164,Sweater,2237.68,3.72,4073,Polyester,BrandC,Red,Winter,23,81,2182,1,2025-09-17
+P0165,Jeans,1928.83,3.68,133,Denim,BrandA,Pink,All Season,25,207,248,0,2023-08-29
+P0166,T-Shirt,1420.03,4.59,3138,Linen,BrandA,Pink,Summer,16,200,1812,0,2022-12-16
+P0167,Top,1490.49,4.71,3919,Wool,BrandE,Red,Summer,6,37,2192,1,2023-11-21
+P0168,Kurti,998.74,3.71,72,Silk,BrandB,Blue,Monsoon,12,210,226,0,2025-06-13
+P0169,Kurti,1490.74,3.58,4494,Wool,BrandD,Blue,All Season,4,248,2425,1,2024-12-02
+P0170,Hoodie,1355.67,4.24,4225,Silk,BrandD,Black,Winter,25,226,2321,1,2024-08-21
+P0171,Top,1661.36,3.72,2978,Denim,BrandA,Black,Monsoon,48,47,1679,0,2025-06-24
+P0172,Jacket,1086.38,4.32,4361,Polyester,BrandD,Pink,All Season,2,17,2395,1,2025-09-26
+P0173,Dress,1759.67,4.1,1985,Denim,BrandA,Red,All Season,6,294,1229,0,2023-07-29
+P0174,Sweater,2266.37,3.24,792,Denim,BrandE,Yellow,Winter,57,195,516,0,2025-04-28
+P0175,Top,1445.62,4.77,4259,Cotton,BrandB,Grey,Monsoon,48,186,2360,1,2024-01-15
+P0176,Hoodie,1700.86,4.9,94,Linen,BrandE,Yellow,All Season,38,223,277,0,2023-12-14
+P0177,Dress,1845.07,3.69,1133,Silk,BrandC,Red,All Season,52,228,758,0,2023-01-03
+P0178,Dress,1299.39,3.81,4917,Polyester,BrandC,Black,All Season,0,76,2654,1,2023-10-08
+P0179,T-Shirt,1612.05,4.14,237,Silk,BrandC,Pink,Winter,48,187,361,0,2025-10-01
+P0180,Dress,1506.3,4.17,2946,Wool,BrandE,Pink,Monsoon,16,269,1723,0,2023-12-04
+P0181,Jacket,1548.84,4.33,2530,Silk,BrandD,Black,Monsoon,42,94,1469,0,2023-09-23
+P0182,Kurti,1113.5,5.0,1960,Wool,BrandB,Yellow,Monsoon,24,131,1234,0,2025-03-18
+P0183,Hoodie,1512.26,3.91,1048,Linen,BrandC,White,Monsoon,58,38,726,0,2024-10-13
+P0184,Dress,1749.0,3.6,2529,Wool,BrandC,White,Summer,2,71,1431,0,2023-03-02
+P0185,T-Shirt,2225.57,3.31,2964,Silk,BrandC,Black,Summer,14,280,1662,0,2024-04-30
+P0186,Jacket,1979.64,3.63,963,Silk,BrandB,White,Monsoon,28,159,660,0,2023-01-12
+P0187,Jeans,2576.59,3.98,536,Wool,BrandC,Green,Winter,52,186,447,0,2024-09-24
+P0188,Kurti,1116.33,4.9,4223,Denim,BrandB,Red,Summer,42,190,2355,1,2025-04-07
+P0189,Kurti,1936.16,3.74,3679,Linen,BrandC,Red,All Season,31,119,2009,1,2022-12-12
+P0190,Hoodie,1591.67,4.11,4187,Cotton,BrandE,Black,Summer,25,219,2322,1,2024-08-16
+P0191,Kurti,2594.9,3.99,3724,Polyester,BrandE,Blue,All Season,59,52,2101,1,2024-01-07
+P0192,Dress,1095.85,4.59,542,Silk,BrandB,Grey,Monsoon,15,221,509,0,2025-03-10
+P0193,T-Shirt,1080.14,5.0,845,Polyester,BrandE,Yellow,Summer,24,130,679,0,2025-06-16
+P0194,Kurti,1200.3,3.73,3603,Cotton,BrandB,Black,Winter,53,236,1995,1,2025-10-25
+P0195,Kurti,438.05,3.76,3036,Polyester,BrandE,White,Summer,27,245,1741,0,2023-09-26
+P0196,Jeans,1237.12,4.52,2494,Cotton,BrandE,Yellow,Summer,8,225,1500,0,2023-12-14
+P0197,Jeans,1120.43,4.34,4485,Wool,BrandB,Blue,Summer,55,207,2461,1,2023-05-28
+P0198,Sweater,1575.2,4.92,2719,Denim,BrandD,White,Monsoon,55,95,1613,0,2023-11-19
+P0199,Jacket,1670.88,4.29,1884,Silk,BrandE,Pink,Winter,0,199,1172,0,2023-06-09
+P0200,Dress,2438.09,3.82,4138,Cotton,BrandC,Grey,Summer,28,246,2239,1,2024-02-20
+P0201,Kurti,1975.21,4.3,4349,Polyester,BrandD,Green,Winter,56,71,2416,1,2023-02-13
+P0202,Top,1211.55,4.55,3201,Silk,BrandB,White,Monsoon,21,184,1866,0,2024-08-20
+P0203,Kurti,1050.79,4.41,2710,Denim,BrandD,Green,All Season,15,5,1603,0,2023-07-23
+P0204,T-Shirt,1745.96,4.25,1953,Wool,BrandA,Yellow,Summer,40,205,1166,0,2022-12-20
+P0205,Sweater,839.88,4.53,4737,Silk,BrandA,Green,Winter,50,31,2561,1,2023-04-02
+P0206,Jacket,2415.73,4.58,3850,Cotton,BrandE,Yellow,Winter,43,98,2170,1,2023-07-06
+P0207,Top,2089.72,4.69,689,Denim,BrandE,Yellow,Monsoon,50,255,566,0,2024-07-19
+P0208,Sweater,1265.41,4.32,1950,Polyester,BrandC,Yellow,Summer,53,186,1200,0,2024-10-28
+P0209,Hoodie,643.43,3.92,456,Denim,BrandD,Yellow,All Season,40,75,462,0,2024-03-03
+P0210,Jacket,2176.94,4.07,2130,Denim,BrandA,Yellow,Winter,6,176,1257,0,2024-11-22
+P0211,Kurti,1442.73,4.6,3976,Linen,BrandE,White,Summer,13,286,2213,1,2023-03-19
+P0212,Kurti,2118.91,3.59,4244,Denim,BrandD,Yellow,All Season,28,254,2309,1,2024-11-07
+P0213,Jacket,702.79,4.18,1179,Denim,BrandE,White,Winter,18,189,779,0,2023-01-05
+P0214,Kurti,1200.31,3.8,4285,Silk,BrandE,Yellow,Winter,18,126,2321,1,2024-09-16
+P0215,Dress,1502.62,4.01,3565,Polyester,BrandA,Green,All Season,1,286,1986,1,2023-04-20
+P0216,Jacket,1523.49,4.64,882,Silk,BrandA,Pink,All Season,40,253,670,0,2024-06-12
+P0217,Sweater,1274.97,4.1,399,Silk,BrandE,Yellow,Monsoon,44,212,420,0,2025-02-06
+P0218,Jacket,1811.42,4.02,608,Cotton,BrandB,Blue,Summer,14,249,563,0,2025-10-14
+P0219,Top,966.19,3.32,1638,Silk,BrandE,Yellow,Summer,2,83,992,0,2023-05-14
+P0220,Kurti,1428.81,4.37,2148,Linen,BrandE,Yellow,Monsoon,10,12,1279,0,2025-03-21
+P0221,Dress,1560.15,4.32,1382,Linen,BrandC,Green,Winter,52,44,938,0,2025-03-10
+P0222,Dress,1757.22,5.0,1403,Cotton,BrandC,Grey,All Season,45,126,922,0,2023-02-18
+P0223,Hoodie,1855.81,3.85,819,Wool,BrandC,Red,All Season,29,113,576,0,2023-08-12
+P0224,Sweater,937.68,4.11,3292,Polyester,BrandB,Green,All Season,56,275,1844,0,2024-03-02
+P0225,Jeans,732.94,4.12,819,Polyester,BrandB,Blue,Winter,39,204,616,0,2023-09-07
+P0226,Jeans,2138.84,4.79,419,Silk,BrandE,Red,All Season,17,272,438,0,2024-02-10
+P0227,Jacket,1666.16,3.95,4219,Silk,BrandC,Black,All Season,50,57,2309,1,2023-05-27
+P0228,Hoodie,1125.76,4.14,4517,Wool,BrandB,Black,Monsoon,47,218,2475,1,2023-01-15
+P0229,T-Shirt,2275.58,4.3,3302,Silk,BrandA,Grey,Winter,1,108,1889,0,2023-09-16
+P0230,Jacket,1557.84,4.09,1508,Polyester,BrandE,Blue,Summer,31,278,963,0,2022-12-20
+P0231,Hoodie,2089.65,3.78,767,Denim,BrandD,Green,Monsoon,7,173,563,0,2025-10-25
+P0232,Sweater,1533.76,4.1,2044,Linen,BrandE,White,Monsoon,21,263,1250,0,2024-02-19
+P0233,Sweater,2530.37,4.54,2139,Denim,BrandD,Blue,Summer,5,110,1282,0,2024-04-14
+P0234,Sweater,2377.67,3.49,3029,Denim,BrandC,Pink,Monsoon,11,186,1658,0,2025-06-10
+P0235,Sweater,1375.52,4.07,1549,Polyester,BrandD,Red,Winter,46,268,1005,0,2023-03-13
+P0236,Sweater,1985.79,3.65,1764,Denim,BrandC,Red,All Season,56,228,1089,0,2024-03-31
+P0237,Hoodie,1822.69,4.6,2645,Wool,BrandA,Yellow,Winter,39,155,1539,0,2024-08-10
+P0238,Hoodie,2184.32,3.24,3716,Cotton,BrandD,Black,Summer,35,188,2014,1,2025-03-31
+P0239,Dress,1017.54,3.72,4605,Silk,BrandE,Grey,Summer,14,271,2475,1,2025-03-18
+P0240,Top,1843.03,4.19,4481,Cotton,BrandC,Red,Monsoon,27,1,2459,1,2024-11-25
+P0241,Jeans,2029.21,4.78,2293,Linen,BrandE,Blue,Winter,51,245,1422,0,2023-06-08
+P0242,Kurti,620.63,3.97,4837,Silk,BrandB,Red,Winter,56,209,2639,1,2023-02-07
+P0243,Sweater,908.37,3.72,2708,Denim,BrandC,Grey,Summer,48,285,1566,0,2024-05-29
+P0244,T-Shirt,480.38,4.94,900,Linen,BrandD,Grey,Winter,44,12,723,0,2024-05-17
+P0245,Kurti,1365.3,3.28,3084,Silk,BrandC,Grey,Summer,17,95,1709,0,2025-07-14
+P0246,Hoodie,1858.77,2.9,2009,Wool,BrandE,Blue,Winter,1,220,1173,0,2024-04-19
+P0247,T-Shirt,2251.18,4.22,241,Wool,BrandA,White,Winter,12,237,348,0,2025-05-28
+P0248,T-Shirt,7685.25,3.75,2385,Wool,BrandC,Yellow,Winter,44,93,1412,0,2024-04-02
+P0249,T-Shirt,2314.31,3.49,4268,Wool,BrandD,Black,Summer,53,268,2301,1,2024-02-02
+P0250,Dress,809.95,4.35,671,Denim,BrandB,Red,Monsoon,14,170,524,0,2025-03-03
+P0251,Hoodie,648.31,4.12,163,Cotton,BrandA,Blue,Winter,19,93,316,0,2023-04-19
+P0252,T-Shirt,1472.23,3.72,464,Silk,BrandB,Green,Summer,28,148,428,0,2023-12-14
+P0253,Sweater,1692.03,3.36,3042,Denim,BrandC,Black,Summer,58,111,1686,0,2024-09-11
+P0254,Jacket,1483.65,4.44,4592,Wool,BrandE,White,Winter,41,54,2516,1,2025-07-24
+P0255,T-Shirt,466.28,4.33,4795,Cotton,BrandE,Blue,Winter,28,115,2675,1,2025-07-23
+P0256,Dress,1455.44,3.95,2442,Linen,BrandD,Pink,Monsoon,2,142,1409,0,2025-04-21
+P0257,Kurti,847.77,4.92,4798,Linen,BrandE,Pink,Summer,18,200,2633,1,2024-08-27
+P0258,Hoodie,1834.84,3.46,2355,Linen,BrandA,Yellow,Summer,2,179,1354,0,2024-04-14
+P0259,Top,1683.3,3.24,4278,Wool,BrandE,Yellow,All Season,53,201,2327,1,2024-05-31
+P0260,Dress,1030.06,3.65,4724,Linen,BrandD,White,Summer,13,52,2594,1,2025-06-12
+P0261,T-Shirt,1243.07,3.98,2557,Polyester,BrandC,White,Monsoon,39,179,1494,0,2024-01-15
+P0262,Hoodie,970.39,4.12,545,Silk,BrandC,Yellow,All Season,58,136,458,0,2024-07-04
+P0263,Jacket,1468.66,3.88,4719,Silk,BrandE,Red,All Season,54,181,2596,1,2024-02-04
+P0264,T-Shirt,1977.57,4.18,3835,Wool,BrandB,Red,All Season,3,0,2128,1,2024-11-09
+P0265,Dress,1007.14,3.37,593,Polyester,BrandC,Blue,Winter,58,43,453,0,2023-06-17
+P0266,Jeans,1752.02,4.72,4839,Denim,BrandE,Green,Winter,59,226,2636,1,2024-01-09
+P0267,Sweater,1234.87,3.96,3804,Denim,BrandD,Blue,Summer,51,97,2120,1,2024-06-25
+P0268,Top,1103.56,4.56,1459,Linen,BrandE,Green,All Season,10,207,966,0,2023-03-14
+P0269,Kurti,4339.4400000000005,4.17,3493,Cotton,BrandC,White,Monsoon,90,264,1965,1,2023-04-28
+P0270,Dress,982.38,4.23,2601,Denim,BrandD,Black,Winter,30,287,1542,0,2023-09-18
+P0271,Hoodie,1223.18,4.28,2444,Cotton,BrandE,Blue,Monsoon,42,270,1424,0,2023-05-08
+P0272,Top,901.06,4.22,2672,Silk,BrandA,Blue,Monsoon,31,139,1579,0,2024-12-04
+P0273,Top,2482.36,4.32,4200,Cotton,BrandD,Green,Winter,26,236,2307,1,2025-05-13
+P0274,Top,1517.63,4.66,16,Silk,BrandA,Grey,Winter,29,71,287,0,2024-04-14
+P0275,T-Shirt,1150.14,4.1,3191,Polyester,BrandB,White,Winter,42,154,1816,0,2023-04-13
+P0276,Sweater,1606.99,4.35,392,Polyester,BrandD,White,Winter,1,189,398,0,2023-12-16
+P0277,T-Shirt,1443.84,3.96,424,Wool,BrandA,Pink,All Season,48,267,372,0,2023-01-25
+P0278,Hoodie,1389.52,4.72,44772,Wool,BrandC,Grey,All Season,8,106,541,0,2024-04-29
+P0279,T-Shirt,1807.08,3.66,3631,Linen,BrandC,Green,All Season,27,231,1993,1,2025-09-21
+P0280,Jeans,1878.75,4.9,1120,Denim,BrandB,White,All Season,30,41,804,0,2024-11-12
+P0281,Sweater,1234.75,3.98,241,Linen,BrandD,Grey,Summer,59,189,338,0,2023-11-15
+P0282,Sweater,1212.09,3.28,3897,Silk,BrandD,Yellow,All Season,33,138,2136,1,2023-12-23
+P0283,Hoodie,1362.47,4.06,4095,Linen,BrandD,Grey,Winter,55,102,2278,1,2023-08-24
+P0284,Kurti,349.04,3.66,2279,Cotton,BrandB,Red,Monsoon,14,170,1313,0,2024-10-25
+P0285,Jeans,742.4,4.42,788,Silk,BrandD,Pink,All Season,47,272,650,0,2024-04-14
+P0286,Dress,2183.44,3.67,714,Wool,BrandC,Yellow,Summer,24,220,531,0,2025-07-15
+P0287,T-Shirt,2322.48,3.78,4854,Polyester,BrandA,Black,Winter,35,212,2573,1,2025-07-29
+P0288,Jacket,1375.48,3.06,2849,Wool,BrandC,Blue,Monsoon,7,55,1557,0,2024-01-11
+P0289,T-Shirt,1788.28,3.77,775,Denim,BrandC,Pink,Monsoon,8,101,583,0,2023-11-06
+P0290,Top,1655.63,2.79,4026,Silk,BrandA,Black,All Season,57,191,2135,1,2024-10-31
+P0291,T-Shirt,3039.44,3.21,2247,Silk,BrandC,Blue,Monsoon,57,199,1283,0,2024-09-17
+P0292,Dress,2059.79,4.38,78,Cotton,BrandB,Red,All Season,36,232,267,0,2023-09-27
+P0293,T-Shirt,1436.04,4.39,3926,Denim,BrandA,Grey,All Season,47,226,2182,1,2025-09-01
+P0294,Jeans,1022.23,4.21,855,Polyester,BrandC,White,Winter,44,138,633,0,2025-02-16
+P0295,Jeans,696.78,3.52,2148,Silk,BrandE,Yellow,Winter,38,148,1232,0,2024-11-22
+P0296,Sweater,1601.73,3.98,1031,Silk,BrandC,Green,Summer,31,114,718,0,2024-05-14
+P0297,Hoodie,1121.82,4.0,4940,Cotton,BrandB,Yellow,Winter,57,62,2633,1,2023-06-29
+P0298,Kurti,788.87,3.42,3271,Linen,BrandD,Red,Winter,51,103,1799,0,2025-06-17
+P0299,Jacket,1176.71,4.75,3576,Polyester,BrandC,Black,All Season,16,155,2011,1,2024-03-21
+P0300,Top,959.23,4.44,4182,Wool,BrandD,Green,Winter,34,272,2313,1,2023-05-05
+P0301,T-Shirt,2343.57,3.89,3456,Denim,BrandE,White,All Season,36,5,1920,0,2023-03-23
+P0302,T-Shirt,1940.82,4.01,3506,Silk,BrandC,Red,All Season,18,146,1975,1,2025-10-02
+P0303,Dress,7480.05,4.1,407,Silk,BrandA,Green,Winter,43,183,443,0,2024-06-05
+P0304,Hoodie,2239.97,2.98,2711,Wool,BrandD,Red,Summer,28,27,1484,0,2025-05-16
+P0305,Jeans,1538.68,3.88,3088,Polyester,BrandE,Grey,Summer,58,37,1781,0,2023-09-06
+P0306,Jacket,1069.36,3.66,1668,Linen,BrandA,Red,Monsoon,6,118,1006,0,2025-04-17
+P0307,Sweater,2261.56,3.5,147,Silk,BrandA,White,Monsoon,27,292,254,0,2024-04-16
+P0308,Jeans,1769.46,3.86,4327,Polyester,BrandA,Pink,Winter,8,243,2369,1,2024-11-29
+P0309,Top,981.38,4.9,3897,Wool,BrandA,Blue,Summer,27,67,2247,1,2023-12-20
+P0310,Hoodie,1404.83,4.32,1950,Cotton,BrandC,Green,All Season,5,213,1183,0,2023-04-27
+P0311,Top,1062.19,3.71,365,Linen,BrandC,Grey,Monsoon,28,217,336,0,2025-01-05
+P0312,Kurti,808.6,4.29,1674,Denim,BrandC,White,All Season,57,176,1087,0,2024-02-24
+P0313,Sweater,1963.09,4.7,4531,Silk,BrandE,Red,Monsoon,16,298,2486,1,2023-12-17
+P0314,Kurti,2454.71,4.46,4494,Polyester,BrandE,Grey,Winter,15,163,2464,1,2023-04-12
+P0315,Dress,800.72,4.03,2546,Cotton,BrandE,White,Summer,22,57,1458,0,2023-02-01
+P0316,Top,1781.48,3.68,20877,Denim,BrandB,Pink,Monsoon,30,268,460,0,2025-07-04
+P0317,Dress,1174.68,4.35,3562,Polyester,BrandE,Grey,Summer,2,57,1985,1,2023-07-10
+P0318,T-Shirt,1256.44,4.2,47959,Polyester,BrandC,Grey,All Season,20,287,1472,0,2023-02-06
+P0319,Kurti,1203.8,4.45,36482,Denim,BrandC,Blue,Winter,25,104,614,0,2024-06-09
+P0320,Hoodie,1068.0,4.32,2037,Cotton,BrandB,Yellow,Summer,35,227,1225,0,2023-04-07
+P0321,Top,1524.26,4.52,3423,Wool,BrandB,Green,Winter,41,246,1960,1,2024-08-10
+P0322,Jacket,1084.52,3.73,2567,Cotton,BrandE,Blue,Summer,36,187,1479,0,2023-10-03
+P0323,Sweater,1635.23,4.66,1573,Linen,BrandD,Black,All Season,52,82,985,0,2023-10-28
+P0324,Jeans,1474.88,4.1,3694,Silk,BrandB,Green,All Season,21,185,2073,1,2023-08-16
+P0325,Hoodie,1380.53,5.0,3291,Denim,BrandA,Blue,Winter,41,251,1902,0,2024-09-17
+P0326,Hoodie,1046.22,3.66,1246,Wool,BrandC,Red,All Season,11,237,838,0,2023-07-31
+P0327,Dress,1211.61,4.87,3719,Denim,BrandA,Green,Monsoon,41,183,2109,1,2023-03-05
+P0328,Kurti,1877.7,4.1,3839,Denim,BrandC,Green,Summer,12,283,2111,1,2025-05-19
+P0329,Top,1750.46,3.67,359,Cotton,BrandC,White,All Season,10,209,361,0,2025-08-16
+P0330,Top,1011.22,3.76,2376,Silk,BrandB,Red,Monsoon,53,295,1397,0,2025-06-08
+P0331,T-Shirt,1549.67,3.84,3009,Linen,BrandB,Black,Winter,15,96,1684,0,2025-02-07
+P0332,T-Shirt,187.56900000000002,4.21,2993,Polyester,BrandA,Yellow,Monsoon,7,207,1700,0,2024-07-16
+P0333,Sweater,3326.5,4.26,962,Polyester,BrandC,Grey,Winter,39,136,697,0,2023-09-07
+P0334,Dress,1771.68,3.71,3632,Denim,BrandA,Pink,Winter,58,183,1981,1,2025-04-16
+P0335,Hoodie,1168.69,3.99,1827,Silk,BrandD,Blue,Summer,56,75,1102,0,2024-09-12
+P0336,Top,1785.3,5.0,1613,Wool,BrandA,White,Summer,39,286,1062,0,2024-06-20
+P0337,Jacket,1118.37,4.86,1640,Cotton,BrandE,Blue,Monsoon,44,141,1091,0,2025-02-20
+P0338,Dress,597.56,4.22,2216,Silk,BrandA,Black,Summer,58,236,1333,0,2025-04-15
+P0339,Sweater,686.23,4.02,4312,Silk,BrandE,Grey,Summer,1,24,2363,1,2023-05-23
+P0340,Sweater,1524.04,4.06,377,Cotton,BrandE,Black,Summer,29,289,378,0,2024-12-01
+P0341,Dress,1629.86,4.31,4214,Denim,BrandE,Green,Monsoon,29,66,2347,1,2024-07-22
+P0342,Sweater,1047.84,3.49,4285,Silk,BrandD,Pink,All Season,11,249,2330,1,2024-12-21
+P0343,Dress,1819.3,3.87,369,Polyester,BrandA,Black,Summer,9,117,366,0,2025-06-12
+P0344,Jeans,669.24,3.17,2196,Cotton,BrandA,Blue,Summer,43,72,1281,0,2025-10-18
+P0345,Dress,1466.96,4.2,3747,Wool,BrandD,Red,Monsoon,10,281,2098,1,2025-01-05
+P0346,Kurti,894.49,4.32,651,Linen,BrandC,Red,All Season,14,9,530,0,2023-11-28
+P0347,Dress,1174.08,3.76,769,Denim,BrandB,Green,Summer,15,210,574,0,2023-07-11
+P0348,Sweater,1523.7,4.79,2421,Cotton,BrandA,Yellow,Winter,16,151,1443,0,2023-11-23
+P0349,Top,1069.79,3.39,780,Linen,BrandB,Blue,Monsoon,25,4,616,0,2025-08-23
+P0350,Kurti,1307.72,3.27,1716,Linen,BrandD,Blue,Summer,1,194,1035,0,2024-07-11
+P0351,Sweater,2003.15,4.11,3983,Wool,BrandC,Black,Summer,49,282,2203,1,2024-11-25
+P0352,T-Shirt,1211.55,4.52,1311,Silk,BrandC,Pink,Winter,11,112,895,0,2023-12-30
+P0353,T-Shirt,1917.85,4.84,3359,Wool,BrandC,Blue,Winter,50,270,1951,1,2024-06-19
+P0354,Top,935.15,3.77,522,Silk,BrandD,White,Monsoon,25,162,453,0,2023-10-20
+P0355,Top,1764.9,4.54,521,Silk,BrandE,Yellow,Monsoon,22,104,478,0,2024-10-04
+P0356,Kurti,2220.78,3.98,4878,Cotton,BrandE,Black,Winter,17,180,2657,1,2023-02-03
+P0357,Jeans,264.18,3.91,2320,Cotton,BrandB,White,Monsoon,31,43,1370,0,2024-12-17
+P0358,Top,1101.55,4.44,935,Denim,BrandE,Green,Winter,48,281,672,0,2023-11-14
+P0359,T-Shirt,1788.54,4.33,2230,Silk,BrandE,Red,Summer,37,174,1309,0,2024-09-07
+P0360,Dress,1398.48,3.21,4040,Linen,BrandC,Green,Winter,56,161,2214,1,2024-03-06
+P0361,Sweater,1685.57,4.74,4583,Polyester,BrandC,Red,Winter,46,139,2534,1,2023-12-14
+P0362,T-Shirt,1198.01,4.69,4941,Denim,BrandB,Green,All Season,2,131,2697,1,2025-05-15
+P0363,T-Shirt,1543.29,3.69,3697,Cotton,BrandA,Blue,Winter,37,86,2031,1,2024-02-02
+P0364,Jeans,4266.4800000000005,4.2,2837,Wool,BrandB,White,Winter,90,175,1648,0,2024-09-02
+P0365,Kurti,2083.89,4.25,4083,Denim,BrandB,Red,All Season,29,182,2250,1,2025-02-04
+P0366,Kurti,1627.21,4.13,2461,Denim,BrandD,Black,Monsoon,0,128,1411,0,2024-08-12
+P0367,Hoodie,1668.8,3.72,3243,Denim,BrandD,White,All Season,29,245,1817,0,2025-06-20
+P0368,Jeans,1294.06,3.66,3359,Denim,BrandB,Black,Summer,44,88,1890,0,2024-07-17
+P0369,Dress,3768.6000000000004,3.99,685,Polyester,BrandB,White,All Season,90,65,568,0,2024-04-21
+P0370,Kurti,1283.72,4.59,2160,Wool,BrandB,White,Summer,27,157,1302,0,2023-10-02
+P0371,Sweater,1697.23,4.27,3988,Wool,BrandE,Green,Monsoon,20,148,2235,1,2024-08-08
+P0372,Top,1289.51,3.81,4066,Wool,BrandD,Red,All Season,57,115,2231,1,2025-09-11
+P0373,Jeans,1644.89,4.39,1567,Silk,BrandB,Red,All Season,45,213,30912,0,2023-12-29
+P0374,Top,2537.7,2.58,38,Linen,BrandC,Pink,Monsoon,12,293,161,0,2023-02-24
+P0375,T-Shirt,1935.56,4.57,2544,Wool,BrandC,White,Summer,26,252,1472,0,2022-12-18
+P0376,Sweater,1336.99,3.13,4875,Denim,BrandE,Blue,All Season,35,142,2632,1,2024-10-08
+P0377,Sweater,2100.61,3.82,1256,Denim,BrandE,Blue,Summer,6,249,822,0,2023-03-13
+P0378,T-Shirt,1295.96,3.44,2990,Wool,BrandA,Black,All Season,21,24,1682,0,2023-01-25
+P0379,Jeans,480.94,3.35,2196,Wool,BrandA,Black,Winter,9,276,1249,0,2025-10-20
+P0380,T-Shirt,995.96,4.58,3468,Denim,BrandA,Green,All Season,38,69,1978,1,2023-07-23
+P0381,Top,564.6,3.77,2708,Silk,BrandE,White,Monsoon,52,112,1573,0,2025-06-16
+P0382,Hoodie,1324.24,4.17,301,Cotton,BrandE,Black,Monsoon,14,111,401,0,2025-03-13
+P0383,Sweater,1509.21,3.98,646,Cotton,BrandE,Black,Summer,14,90,553,0,2023-10-19
+P0384,Jacket,2338.22,4.24,4758,Wool,BrandC,Yellow,All Season,3,17,31675,1,2024-05-15
+P0385,Jacket,1663.46,4.04,1759,Polyester,BrandE,White,Summer,31,148,1053,0,2025-06-23
+P0386,Top,1390.45,3.36,4351,Wool,BrandC,Grey,Summer,22,226,2349,1,2023-11-13
+P0387,Dress,1914.7,4.5,597,Wool,BrandA,Green,Winter,54,213,514,0,2025-01-29
+P0388,Kurti,394.43,3.75,661,Cotton,BrandA,Black,Winter,5,150,535,0,2024-01-22
+P0389,T-Shirt,1617.81,3.22,4330,Denim,BrandA,Green,Monsoon,23,191,2304,1,2023-09-14
+P0390,T-Shirt,1885.43,3.79,1368,Wool,BrandB,Red,Summer,19,39,871,0,2023-11-17
+P0391,Dress,760.71,4.75,2581,Denim,BrandB,Green,Monsoon,57,241,1524,0,2024-02-20
+P0392,Dress,2071.88,4.43,3868,Denim,BrandD,Grey,All Season,36,137,2146,1,2023-10-20
+P0393,Top,1669.25,3.83,3537,Polyester,BrandD,Blue,Summer,19,179,1952,1,2025-07-20
+P0394,Top,1292.36,3.83,4865,Denim,BrandD,Grey,Summer,11,199,2625,1,2023-11-24
+P0395,Dress,1816.39,3.84,4308,Cotton,BrandB,Blue,All Season,32,202,2354,1,2024-10-18
+P0396,Sweater,2635.35,5.0,4558,Silk,BrandB,Green,All Season,27,60,2480,1,2025-01-03
+P0397,Top,1590.93,4.19,282,Silk,BrandD,Blue,Monsoon,7,191,306,0,2024-05-19
+P0398,Hoodie,1624.11,4.22,3678,Linen,BrandD,Red,Monsoon,0,4,2046,1,2025-06-14
+P0399,Top,1270.32,4.52,1486,Wool,BrandE,White,All Season,36,236,968,0,2023-08-16
+P0400,T-Shirt,1075.08,4.12,4082,Cotton,BrandD,Blue,Monsoon,21,180,2255,1,2023-05-10
+P0401,Top,1915.17,3.87,4183,Denim,BrandE,Blue,All Season,5,36,2273,1,2023-12-18
+P0402,Sweater,1071.96,3.9,460,Silk,BrandC,Green,Summer,20,55,429,0,2025-06-07
+P0403,Dress,1535.78,3.96,2325,Cotton,BrandB,Red,Summer,31,236,1366,0,2023-05-02
+P0404,T-Shirt,1261.17,3.98,3754,Silk,BrandD,Pink,Winter,34,196,2065,1,2023-01-14
+P0405,Top,1739.49,4.36,2468,Denim,BrandB,Pink,Summer,14,72,1475,0,2023-07-10
+P0406,Sweater,1666.83,4.03,1724,Silk,BrandB,Pink,All Season,4,58,1070,0,2024-12-19
+P0407,Hoodie,2018.77,4.37,1376,Wool,BrandB,Pink,Monsoon,59,239,919,0,2024-04-12
+P0408,Top,1244.99,3.96,2743,Wool,BrandC,White,Winter,55,1,1574,0,2023-06-04
+P0409,Sweater,1365.06,4.04,514,Linen,BrandA,Grey,Monsoon,45,187,504,0,2025-10-02
+P0410,Hoodie,1010.62,3.0,702,Linen,BrandD,Green,All Season,49,29,517,0,2025-11-08
+P0411,Dress,1277.85,4.46,1653,Silk,BrandA,Green,Summer,47,266,1043,0,2024-10-03
+P0412,Top,1688.65,4.17,2066,Cotton,BrandA,Yellow,Winter,5,107,1260,0,2024-03-14
+P0413,Hoodie,1878.49,4.5,22,Wool,BrandA,Red,All Season,24,89,205,0,2023-07-21
+P0414,T-Shirt,1038.92,2.55,2460,Cotton,BrandB,Pink,Winter,55,204,1364,0,2024-03-07
+P0415,Dress,9674.0,5.0,1304,Cotton,BrandE,White,Winter,45,219,910,0,2025-02-23
+P0416,T-Shirt,2177.82,3.93,3300,Silk,BrandB,Red,Summer,58,93,1851,0,2024-07-30
+P0417,Jacket,1706.72,4.55,361,Cotton,BrandB,Pink,All Season,55,102,404,0,2024-05-09
+P0418,Jeans,2438.4,3.48,3727,Wool,BrandA,White,Monsoon,39,222,2019,1,2023-08-06
+P0419,Top,1113.11,4.31,1284,Denim,BrandB,Red,Winter,28,185,846,0,2023-05-09
+P0420,Hoodie,877.67,3.47,514,Linen,BrandA,Green,Winter,6,183,438,0,2024-06-07
+P0421,Jeans,610.64,3.69,448,Denim,BrandE,Green,Monsoon,39,161,394,0,2023-03-10
+P0422,Jeans,2248.02,4.96,1855,Cotton,BrandD,Grey,All Season,12,246,1213,0,2025-02-27
+P0423,Hoodie,1827.18,3.9,4969,Denim,BrandA,Black,Winter,37,30,2629,1,2023-10-19
+P0424,Dress,1472.21,4.11,3562,Wool,BrandE,Grey,Winter,17,51,1983,1,2024-05-20
+P0425,Top,1639.98,4.44,2520,Wool,BrandD,Blue,Winter,1,75,1487,0,2023-04-13
+P0426,Jacket,937.26,4.25,3081,Cotton,BrandC,Grey,All Season,7,277,1768,0,2022-12-10
+P0427,T-Shirt,8168.64,4.08,1428,Silk,BrandA,Pink,All Season,90,39,901,0,2025-07-20
+P0428,Sweater,1564.61,4.18,3967,Denim,BrandA,Yellow,Monsoon,32,100,2218,1,2023-07-18
+P0429,T-Shirt,1554.7,5.0,922,Silk,BrandC,Red,All Season,53,110,686,0,2024-11-16
+P0430,Sweater,1862.88,3.97,3137,Silk,BrandC,Yellow,All Season,37,248,1758,0,2025-06-13
+P0431,T-Shirt,1740.5,4.1,2159,Polyester,BrandA,Black,Summer,47,190,1299,0,2025-09-26
+P0432,Hoodie,1611.94,4.53,2547,Cotton,BrandC,Blue,Monsoon,26,181,1523,0,2023-09-11
+P0433,Jacket,1104.76,4.55,2979,Linen,BrandB,Red,Winter,19,208,1693,0,2024-01-14
+P0434,Top,1735.73,4.59,2281,Wool,BrandD,White,All Season,11,21,1425,0,2024-04-13
+P0435,Sweater,2441.01,4.32,2649,Wool,BrandD,Pink,Winter,42,165,1524,0,2024-02-17
+P0436,Top,2172.71,3.43,313,Cotton,BrandD,Blue,Winter,30,98,304,0,2023-05-30
+P0437,Top,2296.59,4.82,2613,Linen,BrandB,Green,Summer,26,207,1559,0,2023-09-27
+P0438,Top,1244.39,3.43,47105,Wool,BrandC,Black,All Season,31,7,1710,0,2023-04-25
+P0439,Kurti,1005.2,4.15,2256,Cotton,BrandE,Blue,Monsoon,9,189,1330,0,2024-12-12
+P0440,Dress,1437.11,3.62,1037,Wool,BrandC,Pink,All Season,2,174,714,0,2023-01-27
+P0441,T-Shirt,1527.86,3.97,3489,Silk,BrandA,Grey,Winter,44,272,1915,0,2023-03-20
+P0442,Top,2047.1,4.16,2634,Denim,BrandD,Blue,Monsoon,26,16,1493,0,2025-01-29
+P0443,T-Shirt,653.77,4.16,3983,Denim,BrandC,Grey,All Season,34,89,2195,1,2023-08-26
+P0444,Top,2264.78,4.21,1778,Wool,BrandE,Pink,Winter,30,140,1123,0,2022-12-16
+P0445,Sweater,1421.0,4.81,3895,Polyester,BrandA,Green,Winter,14,144,2180,1,2023-03-12
+P0446,Dress,1286.56,4.23,1124,Linen,BrandB,Red,Summer,15,165,809,0,2023-02-01
+P0447,Dress,993.95,3.88,697,Linen,BrandB,White,Summer,12,77,25738,0,2022-12-23
+P0448,Hoodie,672.57,4.48,2179,Linen,BrandE,Green,Summer,48,261,1326,0,2023-11-27
+P0449,Kurti,1911.59,4.59,1404,Silk,BrandA,Grey,Winter,34,162,940,0,2023-11-05
+P0450,Hoodie,1536.66,3.39,1043,Linen,BrandD,Grey,All Season,51,13,699,0,2024-05-09
+P0451,Hoodie,855.02,4.3,1929,Denim,BrandC,White,Summer,10,238,1188,0,2025-03-06
+P0452,Hoodie,852.46,4.35,1013,Silk,BrandA,Red,All Season,58,71,722,0,2023-03-17
+P0453,Hoodie,1332.11,3.85,226,Cotton,BrandB,Blue,Summer,20,142,304,0,2025-09-17
+P0454,Hoodie,2334.51,4.69,1828,Linen,BrandE,White,Monsoon,50,282,1129,0,2025-03-19
+P0455,Jacket,1370.2,3.92,4917,Linen,BrandE,Black,Monsoon,53,268,2613,1,2024-05-14
+P0456,Dress,748.43,4.06,2023,Cotton,BrandC,Black,Summer,10,240,1243,0,2024-11-12
+P0457,Hoodie,1377.13,3.91,4966,Linen,BrandE,Pink,Winter,29,244,2685,1,2023-11-20
+P0458,Top,1363.64,4.01,2452,Cotton,BrandE,Green,Summer,59,162,1430,0,2022-12-26
+P0459,Dress,151.56,3.45,2085,Silk,BrandA,Grey,Summer,47,59,1255,0,2023-05-29
+P0460,Dress,1472.85,3.28,4283,Denim,BrandD,Red,Winter,52,5,2292,1,2023-06-11
+P0461,Jeans,1384.53,4.8,1080,Cotton,BrandC,Pink,Monsoon,34,196,763,0,2025-04-15
+P0462,Jacket,1848.1,3.58,2320,Polyester,BrandA,Green,All Season,21,57,1336,0,2024-07-22
+P0463,Hoodie,2424.48,3.5,3190,Cotton,BrandD,Green,Summer,37,216,1799,0,2025-07-27
+P0464,T-Shirt,2063.28,2.92,2630,Linen,BrandA,Pink,Winter,30,25,1440,0,2024-02-07
+P0465,Sweater,136.556,3.68,2563,Silk,BrandA,Yellow,Summer,13,4,1416,0,2023-04-15
+P0466,Kurti,946.74,3.34,3292,Wool,BrandE,Green,Winter,23,19,1807,0,2025-02-20
+P0467,Top,2786.68,4.82,4621,Silk,BrandD,Yellow,All Season,49,197,2576,1,2023-06-19
+P0468,T-Shirt,1529.61,4.5,3586,Wool,BrandC,Black,All Season,48,58,1986,1,2025-09-13
+P0469,Jacket,1506.96,3.66,4431,Cotton,BrandC,Black,Monsoon,31,241,2378,1,2023-06-21
+P0470,Sweater,1487.94,5.0,2947,Denim,BrandD,Green,Winter,35,145,1732,0,2024-06-10
+P0471,Jacket,1599.04,4.49,3959,Polyester,BrandE,Black,Winter,31,272,2258,1,2023-02-12
+P0472,Top,1427.82,3.84,2813,Silk,BrandB,Red,Monsoon,54,248,1574,0,2023-09-22
+P0473,Dress,1213.17,2.75,2583,Linen,BrandA,Yellow,Monsoon,14,13,1405,0,2024-02-23
+P0474,Sweater,1226.57,5.0,161,Wool,BrandE,Yellow,Winter,42,12,341,0,2024-05-04
+P0475,Dress,1483.62,3.31,593,Linen,BrandD,Green,Monsoon,57,43,489,0,2023-11-08
+P0476,Top,1228.29,3.18,3259,Denim,BrandA,Black,All Season,34,18,1780,0,2024-01-03
+P0477,T-Shirt,1143.58,4.51,4155,Wool,BrandC,White,Summer,2,62,2274,1,2025-04-03
+P0478,Top,1553.22,5.0,2962,Silk,BrandB,Grey,All Season,15,238,1742,0,2023-04-12
+P0479,T-Shirt,1372.51,4.69,3888,Cotton,BrandC,Pink,Monsoon,4,99,2194,1,2025-07-13
+P0480,Sweater,2252.0,4.28,3390,Linen,BrandD,Pink,Winter,20,162,1946,0,2023-06-23
+P0481,Sweater,174.52,4.3,4501,Denim,BrandA,Yellow,Winter,9,121,2507,1,2023-08-19
+P0482,Hoodie,2045.75,4.43,663,Silk,BrandD,Green,All Season,18,43,572,0,2025-06-23
+P0483,Jacket,2123.04,4.38,1132,Silk,BrandA,Green,Winter,24,144,782,0,2023-07-18
+P0484,Hoodie,463.3,4.14,541,Silk,BrandE,Red,Monsoon,3,49,537,0,2025-11-20
+P0485,Jacket,1328.66,4.05,2974,Silk,BrandB,Blue,All Season,28,64,1685,0,2024-07-04
+P0486,Hoodie,1314.28,3.97,867,Wool,BrandE,Grey,Winter,18,287,623,0,2025-06-20
+P0487,Dress,796.24,3.62,2066,Silk,BrandE,Blue,Summer,42,163,1256,0,2023-05-02
+P0488,Sweater,1111.09,3.86,431,Linen,BrandD,Yellow,Summer,1,140,383,0,2024-08-10
+P0489,T-Shirt,944.71,3.15,4835,Denim,BrandB,Pink,Monsoon,9,127,2543,1,2025-03-18
+P0490,Jacket,2376.14,3.95,4278,Wool,BrandA,Red,Winter,42,238,2340,1,2025-02-25
+P0491,Top,1967.84,3.51,1206,Silk,BrandA,Red,Monsoon,24,295,781,0,2024-11-01
+P0492,Jacket,2135.78,3.45,2528,Polyester,BrandC,Red,All Season,19,186,1434,0,2025-11-16
+P0493,T-Shirt,1860.84,4.09,1169,Polyester,BrandA,Yellow,Summer,47,207,811,0,2024-10-17
+P0494,Hoodie,935.47,4.7,830,Denim,BrandD,Blue,All Season,18,219,637,0,2023-01-31
+P0495,Jacket,1237.74,4.46,1651,Cotton,BrandE,Pink,Winter,22,189,1053,0,2024-06-23
+P0496,Kurti,1744.69,3.21,1136,Cotton,BrandE,Red,Monsoon,23,283,724,0,2023-06-03
+P0497,Dress,888.94,3.51,2810,Wool,BrandE,Pink,Monsoon,10,236,1568,0,2024-04-20
+P0498,Sweater,1856.5,4.47,475,Wool,BrandB,Black,Monsoon,45,193,462,0,2024-07-18
+P0499,T-Shirt,1379.84,3.51,2810,Wool,BrandA,Green,All Season,33,286,1601,0,2025-08-22
+P0500,Sweater,1312.59,3.89,1326,Cotton,BrandD,Green,Summer,54,258,903,0,2024-08-14
